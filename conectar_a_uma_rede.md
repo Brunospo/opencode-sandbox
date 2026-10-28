@@ -52,3 +52,7 @@ networks:
 ## 3. Inserrir o comando no run.sh:
 
 --net minha-rede \
+
+## OBS:
+
+se no codigo a URL for localhost, alterar para o host da api, por exemplo:  http://172.19.0.1:9999
